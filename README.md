@@ -19,5 +19,6 @@
 </p>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactNative" alt="ReactNative " width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript " width="45" height="45"/>&nbsp;
 </p>
 </div>
