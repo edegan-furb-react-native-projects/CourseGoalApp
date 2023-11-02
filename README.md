@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Course Goal App</h1>
   <p>
-    Simple Goal App Using Just React Native
+    React Native - Basics
   </p>
   <p>
   <a href="https://github.com/edegan-furb/CourseGoalApp/graphs/contributors">
