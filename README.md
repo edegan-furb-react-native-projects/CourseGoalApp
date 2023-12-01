@@ -50,7 +50,7 @@ $ npx expo start
 
 ## Screens
 
-> Goals Overview and Add Goal Screens.
+> Goals Overview Screen and Add Goal Modal.
 
 <p align="center">
   <a>
